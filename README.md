@@ -10,6 +10,13 @@ An AI-powered recruitment assistant that helps recruiters efficiently screen can
 
 https://github.com/JayanthReddy3010/Recruitment-Agent
 
+## 📽️ Demo Video
+
+https://youtu.be/your-video-id
+
+## 📑 Project Presentation (PPT)
+
+https://drive.google.com/file/d/your-file-id/view
 ---
 
 ## 📌 Project Overview
@@ -90,7 +97,7 @@ Recruitment-Agent/
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/JayanthReddy3010/Recruitment-Agent.git
 ```
 
 Go into the project
@@ -124,23 +131,18 @@ streamlit run app.py
 
 ### Home Page
 
-(Add Screenshot)
+<img width="2870" height="1380" alt="image" src="https://github.com/user-attachments/assets/49ae7093-b102-487f-9019-11b4919c675e" />
 
-### Resume Screening
-
-(Add Screenshot)
 
 ### Candidate Ranking
 
-(Add Screenshot)
+<img width="2874" height="1322" alt="image" src="https://github.com/user-attachments/assets/d0e70f3c-a954-4d0f-905b-28e5237313d4" />
+
 
 ### Interview Questions
 
-(Add Screenshot)
+<img width="1926" height="1154" alt="image" src="https://github.com/user-attachments/assets/0602ca3c-99ae-4bd3-b474-9e5619fc5494" />
 
-### Generated Report
-
-(Add Screenshot)
 
 ---
 
