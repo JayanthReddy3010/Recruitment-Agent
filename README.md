@@ -16,7 +16,7 @@ https://youtu.be/your-video-id
 
 ## 📑 Project Presentation (PPT)
 
-https://drive.google.com/file/d/your-file-id/view
+https://docs.google.com/presentation/d/11A10GGiQX5czkPJqZ2Mt2j_q7vGZtyx-/edit?usp=drive_link&ouid=115532014598289136883&rtpof=true&sd=true
 
 ---
 
