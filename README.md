@@ -16,7 +16,7 @@ https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F81987584F33FF1B0
 
 ## 📑 Project Presentation (PPT)
 
-https://docs.google.com/presentation/d/11A10GGiQX5czkPJqZ2Mt2j_q7vGZtyx-/edit?usp=drive_link&ouid=115532014598289136883&rtpof=true&sd=true
+https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F81987584F33FF1B0%21sc165ad49ef474ddea96e2f8262cd98b1%3Fithint%3Dvideo%26e%3D6lED4X%26migratedtospo%3Dtrue&cid=81987584F33FF1B0&id=81987584F33FF1B0%21sc165ad49ef474ddea96e2f8262cd98b1&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy84MTk4NzU4NGYzM2ZmMWIwL0lRQkpyV1hCUi1fZVRhbHVMNEppelppeEFmMWxuamoyaW8xazNtMklrNnk2R3ZBP2U9NmxFRDRY&v=photos
 
 ---
 
