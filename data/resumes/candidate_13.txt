@@ -1,0 +1,11 @@
+Name: Neha Kapoor
+Skills: Python, Django, REST APIs, PostgreSQL, AWS, Docker, GraphQL
+Experience: 3 years
+Education: B.E. Computer Science, PES University
+
+Employment History:
+2023-07 to present: GraphLine Software
+
+Backend engineer building both REST and GraphQL APIs in Django. Deploys
+to AWS Elastic Beanstalk with Docker images, manages PostgreSQL schema
+migrations, and has contributed to open-source Django packages.

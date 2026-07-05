@@ -1,0 +1,12 @@
+Name: Owais Ahmed
+Skills: Python, Django, REST APIs, PostgreSQL, AWS, Docker, Redis, Celery
+Experience: 4 years
+Education: B.Tech CSE, Jamia Millia Islamia
+
+Employment History:
+2022-07 to present: QuickCart Technologies
+
+Backend engineer building order-processing services in Django with
+Celery for async task queues. Deploys to AWS with Docker, tunes
+PostgreSQL indexes for the checkout pipeline, and uses Redis for session
+caching and rate limiting.

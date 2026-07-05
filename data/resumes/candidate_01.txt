@@ -1,0 +1,13 @@
+Name: Priya Sharma
+Skills: Python, Django, REST APIs, PostgreSQL, Docker, AWS, Redis
+Experience: 5 years
+Education: B.Tech Computer Science, IIT Bombay
+
+Employment History:
+2021-07 to 2024-01: InfoEdge Technologies
+2024-01 to present: CloudNova Systems
+
+Backend engineer with 5 years building high-traffic REST APIs in Python
+and Django. Led migration of a monolith to containerized microservices
+on AWS using Docker and Kubernetes. Comfortable owning PostgreSQL schema
+design and query optimization. Mentored two junior engineers.

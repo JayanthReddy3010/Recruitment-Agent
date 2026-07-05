@@ -1,0 +1,13 @@
+Name: Sneha Reddy
+Skills: Python, Flask, REST APIs, PostgreSQL, AWS, Docker, CI/CD
+Experience: 3 years
+Education: B.Tech CSE, Vardhaman College of Engineering
+
+Employment History:
+2022-12 to 2024-02: WebFleet Solutions
+2025-04 to present: CodeHarbor
+
+Backend developer with 3 years of experience building Flask-based REST
+services deployed on AWS EC2 and ECS. Manages PostgreSQL databases,
+writes Dockerfiles for all services, and set up GitHub Actions CI/CD
+pipelines from scratch.

@@ -1,0 +1,13 @@
+Name: Meera Nair
+Skills: Python, FastAPI, REST APIs, PostgreSQL, Docker, AWS, Terraform
+Experience: 4 years
+Education: B.Tech Computer Science, NIT Trichy
+
+Employment History:
+2022-07 to 2024-07: APIWorks
+2024-07 to present: Terraform Solutions
+
+Backend engineer specializing in FastAPI microservices. Owns
+infrastructure-as-code with Terraform to provision AWS resources, and
+containerizes every service with Docker. Solid PostgreSQL query tuning
+experience from a high-read-throughput analytics service.

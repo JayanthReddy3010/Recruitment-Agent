@@ -1,0 +1,14 @@
+Name: Tanvi Joshi
+Skills: Python, Django, REST APIs, PostgreSQL, AWS, Docker, Redis, Kubernetes, CI/CD, Terraform
+Experience: 6 years
+Education: M.S. Computer Science, IISc Bangalore
+
+Employment History:
+2020-07 to 2022-07: BuildStack
+2022-07 to 2024-07: InfraForge
+2024-07 to present: DeployRight
+
+Senior backend engineer with a near-complete match to modern Django/AWS
+stacks: REST APIs, PostgreSQL, Redis caching, Docker, Kubernetes,
+Terraform-managed infra, and mature CI/CD pipelines. Previously tech-led
+a 4-person backend team at a Series B startup.

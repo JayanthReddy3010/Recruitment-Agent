@@ -1,0 +1,13 @@
+Name: Arjun Mehta
+Skills: Java, Spring Boot, MySQL, Kubernetes, Jenkins
+Experience: 6 years
+Education: B.E. Information Technology, VJTI
+
+Employment History:
+2020-07 to 2023-07: PaySecure Ltd
+2023-07 to present: Finstack Technologies
+
+Senior backend engineer, primarily Java/Spring Boot ecosystem. Built
+payment processing services handling millions of transactions daily on
+MySQL. Strong CI/CD background with Jenkins and Kubernetes deployments.
+Limited hands-on Python experience.

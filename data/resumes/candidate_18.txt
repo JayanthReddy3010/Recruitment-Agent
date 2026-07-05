@@ -1,0 +1,12 @@
+Name: Sameer Khan
+Skills: Python, Django, REST APIs, PostgreSQL, Docker, AWS
+Experience: 2 years
+Education: B.Tech CSE, Vardhaman College of Engineering
+
+Employment History:
+2023-08 to present: Bytewise Solutions
+
+Backend developer two years into his career, has shipped REST APIs for
+an internal admin panel in Django, containerized with Docker, and
+deployed on AWS Lightsail. Still building depth on PostgreSQL performance
+tuning.

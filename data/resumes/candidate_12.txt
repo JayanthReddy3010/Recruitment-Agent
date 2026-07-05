@@ -1,0 +1,12 @@
+Name: Karan Malhotra
+Skills: Python, REST APIs, PostgreSQL, Docker
+Experience: 1 year
+Education: B.Tech CSE, Vardhaman College of Engineering
+
+Employment History:
+2023-01 to 2024-11: StartFast Inc
+2024-11 to present: BuildQuick Labs
+
+Junior backend developer, one year experience via internship building
+REST APIs in Python (Flask) with PostgreSQL, some exposure to Docker for
+packaging services. No AWS or production on-call experience yet.

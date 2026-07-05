@@ -1,0 +1,12 @@
+Name: Farhan Ali
+Skills: PHP, Laravel, MySQL
+Experience: 5 years
+Education: B.Sc Computer Science, Osmania University
+
+Employment History:
+2021-07 to 2024-01: ShopCraft Commerce
+2024-01 to present: MarketLoop
+
+PHP/Laravel backend developer with 5 years building e-commerce platforms
+on MySQL. No Python, Docker, or AWS experience. Comfortable with basic
+Linux server administration.

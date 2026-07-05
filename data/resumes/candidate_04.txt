@@ -1,0 +1,12 @@
+Name: Rohan Gupta
+Skills: JavaScript, React, Node.js, MongoDB, Express
+Experience: 4 years
+Education: B.Sc Computer Science, Delhi University
+
+Employment History:
+2022-07 to 2024-07: PixelWorks
+2024-07 to present: BrightApp Labs
+
+Full-stack developer focused primarily on the frontend and Node.js APIs.
+Built several React dashboards backed by Express/MongoDB services. No
+Python or PostgreSQL experience; has touched Docker briefly for local dev.

@@ -1,0 +1,11 @@
+Name: Kabir Singh
+Skills: Python, Pandas, NumPy, Scikit-learn, SQL
+Experience: 2 years
+Education: B.Tech CSE, Vardhaman College of Engineering
+
+Employment History:
+2024-07 to present: Insight Analytics Co
+
+Data analyst / junior data scientist. Strong Python for data work
+(Pandas, NumPy, Scikit-learn) but limited exposure to REST API design,
+Docker, or cloud deployment. Has used basic SQL for reporting queries.

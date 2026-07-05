@@ -1,0 +1,10 @@
+Name: Vikram Rao
+Skills: C++, Embedded Systems, RTOS
+Experience: 8 years
+Education: B.Tech Electronics, BITS Pilani
+
+Employment History:
+2018-07 to present: AutoDrive Systems
+
+Embedded systems engineer with deep C++ and RTOS experience in the
+automotive sector. No web backend, REST API, or cloud experience.

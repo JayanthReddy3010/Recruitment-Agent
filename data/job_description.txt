@@ -1,0 +1,17 @@
+Backend Software Engineer
+
+We are hiring a Backend Software Engineer to help build and scale our core
+platform services. You will design REST APIs, work with relational
+databases, and deploy services to the cloud.
+
+Required skills: Python, REST APIs, PostgreSQL, Docker, AWS
+Preferred skills: Django, Redis, Kubernetes, CI/CD
+
+Minimum experience: 3 years
+
+Responsibilities:
+- Design and implement RESTful APIs used by web and mobile clients
+- Write efficient PostgreSQL queries and manage schema migrations
+- Containerize services with Docker and deploy to AWS
+- Participate in code review and on-call rotation
+- Collaborate with frontend and product teams on feature delivery

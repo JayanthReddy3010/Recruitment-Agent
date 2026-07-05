@@ -1,0 +1,14 @@
+Name: Ananya Iyer
+Skills: Python, Django, PostgreSQL, Docker, AWS, Kubernetes, Redis, CI/CD
+Experience: 7 years
+Education: M.Tech Computer Science, IIT Madras
+
+Employment History:
+2019-07 to 2021-11: DataForge Inc
+2021-11 to 2024-03: Nimbus Cloud
+2024-03 to present: ScaleUp Technologies
+
+Staff-level backend engineer. Architected a multi-tenant SaaS platform in
+Django/PostgreSQL serving 200k+ users, deployed on AWS EKS with full
+CI/CD via GitHub Actions. Deep experience with Redis caching layers and
+on-call incident response.

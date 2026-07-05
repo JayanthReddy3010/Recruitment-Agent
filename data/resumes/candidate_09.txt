@@ -1,0 +1,12 @@
+Name: Divya Menon
+Skills: Python, Django, REST APIs, MySQL, Docker
+Experience: 3 years
+Education: B.Tech IT, Anna University
+
+Employment History:
+2023-07 to 2025-07: Tooling Systems
+2025-01 to present: InnerLoop Software
+
+Backend developer building internal tooling APIs in Django. Has used
+MySQL rather than PostgreSQL, and Docker for local development only (no
+production cloud deployment experience yet). Eager to grow into AWS work.

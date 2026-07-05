@@ -1,0 +1,12 @@
+Name: Ishita Bansal
+Skills: Ruby, Ruby on Rails, PostgreSQL, Heroku
+Experience: 4 years
+Education: B.Tech CSE, Manipal Institute of Technology
+
+Employment History:
+2022-07 to 2024-07: Bookish Rails Co
+2024-07 to present: Herokrat Systems
+
+Backend engineer with Ruby on Rails background, strong PostgreSQL skills
+from Rails ActiveRecord work, deployed apps on Heroku. No direct Python,
+Docker, or AWS experience, though comfortable learning new backend stacks.
