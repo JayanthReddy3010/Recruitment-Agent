@@ -11,7 +11,7 @@ load_dotenv()
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 TAVILY_API_KEY = os.getenv("TAVILY_API_KEY", "")
 
-GEMINI_MODEL = "gemini-2.5-flash"   # separate quota bucket from gemini-2.5-flash;
+GEMINI_MODEL = "gemini-2.5-flash-lite"   # separate quota bucket from gemini-2.5-flash;
 # gemini-2.5-flash's free tier on this account is only 20 requests/day (confirmed by
 # Google's own 429 error, not the often-quoted ~1,500/day figure -- Google has tightened
 # free-tier quotas several times in 2026 and actual limits vary by account/region).
